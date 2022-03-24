@@ -1,4 +1,4 @@
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/o_m4rcelo/ target="_blank")
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/o_m4rcelo/)
 
 ![Marcelo Medeiros stats](https://github-readme-stats.vercel.app/api?username=Marcelo3301&show_icons=true&theme=radical)
 
